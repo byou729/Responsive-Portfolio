@@ -3,6 +3,7 @@ header {
     box-sizing: border-box;
     border-color: #cccccc;
     width: 100vw;
+    top: 0;
     position: static;
 }
 
